@@ -1,0 +1,9 @@
+[project]
+name = "lab2-colors"
+version = "0.1.0"
+description = "ЛР2: Регулярные выражения"
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
